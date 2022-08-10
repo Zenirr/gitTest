@@ -24,3 +24,6 @@
 
 **Полужирный курсив**
 
+## Изображения 
+
+![JetSetRadioFuture logo](gigaJSRF.png) 
